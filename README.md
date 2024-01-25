@@ -42,6 +42,8 @@ The Rock, Paper, Scissors project is a simple game where the computer randomly s
 
 ###Description
 
-The Clock Timer Project is a simple timer I made   
+The Clock Timer Project is a simple timer I made, it counts down in seconds that have been input by the user.
+
+**File:** `Clock_Timer`
 
 
